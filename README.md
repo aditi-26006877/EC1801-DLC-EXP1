@@ -85,6 +85,7 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
+<img width="1526" height="816" alt="DLCD expt 1" src="https://github.com/user-attachments/assets/0282873c-46d6-4808-b471-79f6153dd841" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
